@@ -1,0 +1,9 @@
+D:\NHibernate\ActionImplementations\bin\Debug\ActionImplementations.dll
+D:\NHibernate\ActionImplementations\bin\Debug\ActionImplementations.pdb
+D:\NHibernate\ActionImplementations\bin\Debug\Domain.dll
+D:\NHibernate\ActionImplementations\bin\Debug\InterfaceActions.dll
+D:\NHibernate\ActionImplementations\bin\Debug\Domain.pdb
+D:\NHibernate\ActionImplementations\bin\Debug\InterfaceActions.pdb
+D:\NHibernate\ActionImplementations\obj\Debug\ActionImplementations.csprojResolveAssemblyReference.cache
+D:\NHibernate\ActionImplementations\obj\Debug\ActionImplementations.dll
+D:\NHibernate\ActionImplementations\obj\Debug\ActionImplementations.pdb

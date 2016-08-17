@@ -1,0 +1,7 @@
+D:\NHibernate\Repository.Interfaces\bin\Debug\Repository.Interfaces.dll
+D:\NHibernate\Repository.Interfaces\bin\Debug\Repository.Interfaces.pdb
+D:\NHibernate\Repository.Interfaces\bin\Debug\Domain.dll
+D:\NHibernate\Repository.Interfaces\bin\Debug\Domain.pdb
+D:\NHibernate\Repository.Interfaces\obj\Debug\Repository.Interfaces.csprojResolveAssemblyReference.cache
+D:\NHibernate\Repository.Interfaces\obj\Debug\Repository.Interfaces.dll
+D:\NHibernate\Repository.Interfaces\obj\Debug\Repository.Interfaces.pdb

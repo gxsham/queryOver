@@ -1,0 +1,7 @@
+D:\NHibernate\InterfaceActions\bin\Debug\InterfaceActions.dll
+D:\NHibernate\InterfaceActions\bin\Debug\InterfaceActions.pdb
+D:\NHibernate\InterfaceActions\bin\Debug\Domain.dll
+D:\NHibernate\InterfaceActions\bin\Debug\Domain.pdb
+D:\NHibernate\InterfaceActions\obj\Debug\InterfaceActions.csprojResolveAssemblyReference.cache
+D:\NHibernate\InterfaceActions\obj\Debug\InterfaceActions.dll
+D:\NHibernate\InterfaceActions\obj\Debug\InterfaceActions.pdb

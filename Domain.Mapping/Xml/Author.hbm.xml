@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+  assembly="Domain"
+  namespace="Domain.Mapping"
+  auto-import="true">
+  <database-object>
+    <create>
+      ALTER TABLE dbo.News ADD CONSTRAINT CK_NewsPositiveRating CHECK(Rating>=0);
+      ALTER TABLE dbo.Author WITH CHECK ADD CONSTRAINT CK_AgePositive CHECK(Age>0);
+    </create>
+    <drop>
+    </drop>
+  </database-object>
+</hibernate-mapping>

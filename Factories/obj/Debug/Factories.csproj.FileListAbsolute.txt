@@ -1,0 +1,7 @@
+D:\NHibernate\Factories\bin\Debug\Factories.dll
+D:\NHibernate\Factories\bin\Debug\Factories.pdb
+D:\NHibernate\Factories\bin\Debug\Domain.dll
+D:\NHibernate\Factories\bin\Debug\Domain.pdb
+D:\NHibernate\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+D:\NHibernate\Factories\obj\Debug\Factories.dll
+D:\NHibernate\Factories\obj\Debug\Factories.pdb
